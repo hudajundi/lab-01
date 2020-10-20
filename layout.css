@@ -1,0 +1,120 @@
+@media(min-width : 960px){
+    
+body{
+    width: 960px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+    border-style: solid;
+}
+
+h1{
+    background-color:beige;
+    height: 100px;
+    width: 960px;
+    text-align: center;
+
+}
+    
+
+#b {
+    background-color: bisque;
+    height: 600px;
+    width: 200px;
+    text-align: center;
+    float: left;
+}
+
+#c{
+    background-color: lightsalmon;
+    height:200px ;
+    width: 380px;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+
+}
+#d{
+    background-color:lemonchiffon;
+    height:200px ;
+    width: 380px;
+    /* position: relative; */
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+
+}
+
+
+section{
+    display: inline-block;
+    height: 250px;
+    width: 760px;
+    position: relative;
+    text-align: center;
+    top: 0%;
+}
+
+#e{
+    background-color: lightgrey;
+    height: 250px;
+    width: 190px;
+    text-align: center;
+    position: absolute;
+    /* left: 200px; */
+    float: left;
+
+
+}
+
+
+
+#f{
+    background-color: palevioletred;
+    height: 250px;
+    width: 190px;
+    text-align: center;
+    position: absolute;
+    /* left: 390px; */
+    left: 190px;
+    top: 0%;
+
+    
+}
+
+#g{
+    background-color: sandybrown;
+    height: 250px;
+    width: 190px;
+    text-align: center;
+    position: absolute;
+    /* left: 580px; */
+    left: 380px;
+    top: 0%;
+
+    
+}
+
+#h{
+    background-color: salmon;
+    height: 250px;
+    width: 190px;
+    text-align: center;
+    position: absolute;
+    /* left: 770px; */
+    left: 570px;
+    top: 0%;
+
+}
+
+#i{
+    background-color: brown;
+    height: 150px;
+    width: 760px;
+    /* position: absolute; */
+    left: 200px;
+    top: 0%;
+    text-align: center;
+    position: relative;
+}
+}
